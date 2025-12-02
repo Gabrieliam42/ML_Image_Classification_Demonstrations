@@ -1,4 +1,4 @@
-## Title
+## Deep Learning Classification using a softmax with cross-entropy setup (multi-class classification).
 
 
 
@@ -8,17 +8,19 @@
 ##### Prerequisites:
 
 - Python 3.10 or later
-- Docker
 #
 
 
 
 ##### Requirements:
 
-- `There are no external dependencies are required for this script. It uses only Python's standard libraries.`
-- `torch==2.4.1+cu124`
-- `torchvision==0.19.1+cu124`
-- `torchaudio==2.4.1+cu124`
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.9.0+cu130
+torchvision==0.24.0+cu130
+torchaudio==2.9.0
+scikit-learn
+numpy
+joblib
 
 
 
@@ -35,4 +37,5 @@
 
 
 **Script Developer:** Gabriel Mihai Sandu  
+
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
