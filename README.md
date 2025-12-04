@@ -2,6 +2,7 @@
 * using softmax with cross-entropy setup (multi-class classification).
 * binary classification using a deep CNN with logistic (sigmoid) output 
 * classification with logistic regression
+* supervised CNN-based image classification
 
 
 
@@ -42,6 +43,7 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
 
