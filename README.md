@@ -19,7 +19,6 @@
 
 
 
-
 ##### Requirements:
 
 - --extra-index-url https://download.pytorch.org/whl/cu130
@@ -50,6 +49,7 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
 
